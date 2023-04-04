@@ -39,7 +39,7 @@ class MainActivity : AppCompatActivity() {
     fun onShare(view: View) {
         val intent = Intent(Intent.ACTION_SEND)
         intent.setType("text/plain")
-        intent.putExtra(Intent.EXTRA_TEXT,mainViewModel.getQuote().text)
+        intent.putExtra(Intent.EXTRA_TEXT,(mainViewModel.getQuote().text ?: "")+"\n~"+(mainViewModel.getQuote().author ?: ""))
         startActivity(intent)
     }
 
