@@ -43,6 +43,6 @@ Quotify makes use of the following libraries:
 
 ## Credits
 
-Quotify was created by [your name](https://github.com/your_username). The app uses quotes from various sources, including books, speeches, and interviews.
+Quotify was created by [Mukul Asija](https://github.com/mukulasija). The app uses quotes from various sources, including books, speeches, and interviews.
 
 
