@@ -1,4 +1,4 @@
-# Quote App
+# Quotify
 
 |![QuotifyScreen](https://user-images.githubusercontent.com/78532621/229735759-493c252f-1521-4a29-bd84-a9360178d460.jpeg)|
 
