@@ -1,7 +1,7 @@
 # Quotify
 
-<!-- ![QuotifyScreen](https://user-images.githubusercontent.com/78532621/229735759-493c252f-1521-4a29-bd84-a9360178d460.jpeg) -->
-<img src="https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg](https://user-images.githubusercontent.com/78532621/229735759-493c252f-1521-4a29-bd84-a9360178d460.jpeg"  width="60%" height="30%">
+![QuotifyScreen](https://user-images.githubusercontent.com/78532621/229735759-493c252f-1521-4a29-bd84-a9360178d460.jpeg)
+<!-- <img src="https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg](https://user-images.githubusercontent.com/78532621/229735759-493c252f-1521-4a29-bd84-a9360178d460.jpeg"  width="60%" height="30%"> -->
 Quotify is a simple one screen Android application that allows the user to view and share quotes from different authors. The app is built using the Model-View-ViewModel (MVVM) architecture pattern and makes use of a ViewModel and a ViewModelFactory to manage the presentation logic and data.
 
 ## Features
